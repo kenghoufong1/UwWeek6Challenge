@@ -1,0 +1,28 @@
+*{
+    margin:5px;
+}
+
+h1{
+    border-style: solid;
+    background-color: purple;
+    text-align: center;
+    font-size: 50px;
+}
+
+.searchforcity{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    font-size: larger;
+}
+
+input{
+    margin:10px;
+}
+
+p{
+    border-style: solid;
+    text-align: center;
+    font-size: 30px;
+}
+
